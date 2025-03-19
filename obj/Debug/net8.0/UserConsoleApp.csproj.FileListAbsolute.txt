@@ -1,0 +1,14 @@
+C:\dotnet_projects\UserConsoleApp\bin\Debug\net8.0\UserConsoleApp.exe
+C:\dotnet_projects\UserConsoleApp\bin\Debug\net8.0\UserConsoleApp.deps.json
+C:\dotnet_projects\UserConsoleApp\bin\Debug\net8.0\UserConsoleApp.runtimeconfig.json
+C:\dotnet_projects\UserConsoleApp\bin\Debug\net8.0\UserConsoleApp.dll
+C:\dotnet_projects\UserConsoleApp\bin\Debug\net8.0\UserConsoleApp.pdb
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.AssemblyInfoInputs.cache
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.AssemblyInfo.cs
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.csproj.CoreCompileInputs.cache
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.dll
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\refint\UserConsoleApp.dll
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.pdb
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\UserConsoleApp.genruntimeconfig.cache
+C:\dotnet_projects\UserConsoleApp\obj\Debug\net8.0\ref\UserConsoleApp.dll
