@@ -4,12 +4,12 @@ Bem-vindo ao Sistema de Cadastro de Usuários, um simples sistema de gerenciamen
 ⚙️ Funcionalidades
 Este sistema oferece as seguintes funcionalidades:
 
-Cadastrar Usuário 📝
-Listar Todos os Usuários 📜
-Buscar Usuário por Nome 🔍
-Alterar Dados do Usuário ✏️
-Deletar Usuário 🗑️
-Sair ❌
+- Cadastrar Usuário 📝
+- Listar Todos os Usuários 📜
+- Buscar Usuário por Nome 🔍
+- Alterar Dados do Usuário ✏️
+- Deletar Usuário 🗑️
+- Sair ❌
 
 🖥️ Como Usar?
 Passo 1: Clone o Repositório
