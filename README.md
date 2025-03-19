@@ -27,11 +27,12 @@ Passo 2: Compile e Execute o Programa
 - O sistema será executado no terminal.
 
 Passo 3: Interaja com o Sistema 🎮
-Cadastro de Usuário: Informe o nome, e-mail e idade.
-Listagem de Usuários: Exibe todos os usuários cadastrados.
-Busca de Usuário: Pesquise por nome de usuário.
-Alteração de Usuário: Altere os dados de um usuário existente.
-Deletar Usuário: Exclua um usuário do sistema.
+
+- Cadastro de Usuário: Informe o nome, e-mail e idade.
+- Listagem de Usuários: Exibe todos os usuários cadastrados.
+- Busca de Usuário: Pesquise por nome de usuário.
+- Alteração de Usuário: Altere os dados de um usuário existente.
+- Deletar Usuário: Exclua um usuário do sistema.
 
 📌 Tecnologias Utilizadas
 C#: Linguagem de programação principal.
