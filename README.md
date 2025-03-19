@@ -34,6 +34,7 @@ Passo 3: Interaja com o Sistema 🎮
 - Alteração de Usuário: Altere os dados de um usuário existente.
 - Deletar Usuário: Exclua um usuário do sistema.
 
-📌 Tecnologias Utilizadas
-C#: Linguagem de programação principal.
-.NET: Plataforma para desenvolvimento e execução do programa.
+📌 Tecnologias Utilizadas:
+
+- C#: Linguagem de programação principal.
+- .NET: Plataforma para desenvolvimento e execução do programa.
