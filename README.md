@@ -1,5 +1,6 @@
 📋 Sistema de Cadastro de Usuários
-Bem-vindo ao Sistema de Cadastro de Usuários, um simples sistema de gerenciamento de usuários desenvolvido em C# para cadastrar, listar, buscar, alterar e excluir usuários. 💻
+
+Um simples sistema de gerenciamento de usuários desenvolvido em C# para cadastrar, listar, buscar, alterar e excluir usuários. 💻
 
 ⚙️ Funcionalidades
 Este sistema oferece as seguintes funcionalidades:
