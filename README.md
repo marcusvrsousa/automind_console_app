@@ -12,6 +12,7 @@ Este sistema oferece as seguintes funcionalidades:
 - Sair ❌
 
 🖥️ Como Usar?
+
 Passo 1: Clone o Repositório
 - Clone este repositório para o seu computador utilizando o comando:
 - git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
