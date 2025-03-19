@@ -17,12 +17,12 @@ Este sistema oferece as seguintes funcionalidades:
 - git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
 
 Passo 2: Compile e Execute o Programa
-Abra o projeto no Visual Studio ou qualquer outro editor que suporte C#.
-Abra o terminal ou prompt de comando na pasta do projeto.
-Compile o projeto com o comando:
-- dotnet build
-- dotnet run
-O sistema será executado no terminal.
+- Abra o projeto no Visual Studio ou qualquer outro editor que suporte C#.
+- Abra o terminal ou prompt de comando na pasta do projeto.
+- Compile o projeto com o comando:
+1. dotnet build
+2. dotnet run
+- O sistema será executado no terminal.
 
 Passo 3: Interaja com o Sistema 🎮
 Cadastro de Usuário: Informe o nome, e-mail e idade.
