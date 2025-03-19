@@ -14,7 +14,9 @@ Este sistema oferece as seguintes funcionalidades:
 🖥️ Como Usar?
 
 Passo 1: Clone o Repositório
-- Clone este repositório para o seu computador utilizando o comando: git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
+- Clone este repositório para o seu computador utilizando o comando abaixo:
+
+  git clone https://github.com/seu-usuario/sistema-cadastro-usuarios.git
 
 Passo 2: Compile e Execute o Programa
 - Abra o projeto no Visual Studio ou qualquer outro editor que suporte C#.
